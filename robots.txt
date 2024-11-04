@@ -1,0 +1,4 @@
+Sitemap: https://edusell.es/sitemap.xml
+
+User-agent: *
+Disallow: *
